@@ -76,6 +76,3 @@ plt.title("Distribution of users' ages")
 plt.ylabel('count of users')
 plt.xlabel('age')
 
-
-
-users.age
